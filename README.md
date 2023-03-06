@@ -1,5 +1,4 @@
 # Git-commands
-# Git Commands - Task 
 
 ## git init
 This command is used to create an empty git repository or to initialize and existing repository.
