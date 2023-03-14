@@ -150,7 +150,7 @@ This command is used add the URLs of the remote repositories.
 
     git remote add <remote-url-name> <url of remote repo>
     
-    Ex: git remote add origin https://github.com/Hemanthghs/gRPC-Protobuf-with-Golang.git
+    Ex: git remote add origin https://github.com/iamkishor07/validation-exception-handling.git
     
 
 
